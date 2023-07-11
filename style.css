@@ -50,6 +50,10 @@ body{
         justify-content: justify;
     }
 
+    img{
+        border-radius: 10px;
+    }
+
 
 .menu{
     width: 100%;
