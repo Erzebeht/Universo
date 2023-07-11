@@ -151,6 +151,7 @@ footer .contenedor .creadoras p{
 footer .contenedor .creadoras ul li{
     color: #ffffff;
     list-style: none;
+    font-weight: bold;
 }
 
 footer .icons, footer .footmenu{
