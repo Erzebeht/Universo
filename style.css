@@ -129,7 +129,6 @@ button{
 
 }
 button:hover{
-    background:  rgb(11, 38, 90);
     transition: 0.5s;
 
 }
