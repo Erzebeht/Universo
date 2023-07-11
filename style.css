@@ -45,6 +45,11 @@ body{
         font-weight: bold;
     }
 
+    .col{
+        color: white;
+        justify-content: justify;
+    }
+
 
 .menu{
     width: 100%;
