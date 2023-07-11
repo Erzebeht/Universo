@@ -128,9 +128,9 @@ button:hover{
     color: white;
 }
 footer{
-   position: relative;
-   padding: 50px 100px;
-   background: #070216;
+    position: relative;
+    padding: 50px 100px;
+    background: #070216;
 }
 
 footer .contenedor {
@@ -145,7 +145,7 @@ footer .contenedor .creadoras p{
     color: #ffffff;
     font-weight: 500;
     margin-bottom: 15px;
- 
+
 
 }
 footer .contenedor .creadoras ul li{
@@ -162,7 +162,6 @@ footer .icons, footer .footmenu{
     margin:   0 30px;
     flex-wrap: wrap;
     color: #ffffff;
-   
 
 }
 
@@ -173,7 +172,6 @@ footer .icons li{
     margin:  0 30px;
     display:  inline;
     transition: 0.5s;
-   
 
 }
 
@@ -192,8 +190,8 @@ footer .footmenu  li {
 }
 footer .footmenu  li a{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-   text-decoration: none;
-   color: #fff;
+    text-decoration: none;
+    color: #fff;
 
 
 }
