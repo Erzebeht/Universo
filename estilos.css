@@ -16,12 +16,7 @@ h1{
     text-align: justify;
     border-radius: 10px;
 }
-*{
-    margin: 0;
-    padding: 0;
-    font-family: sans-serif;
 
-}
 
 body{
     background-image: linear-gradient(135deg,#070216,#060d6df5,#151f49,#161569,#1d007e,#52144c,#520c81);
@@ -117,7 +112,6 @@ button{
 
 }
 button:hover{
-    background:  rgb(11, 38, 90);
     transition: 0.5s;
 
 }
